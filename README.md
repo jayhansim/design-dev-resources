@@ -11,6 +11,8 @@
 - https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.o88pqs7wv
 - https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.v0hz8q2tl
 - https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/
+ 
+---
 
 ### Greensock GSAP
 **Free**
@@ -22,6 +24,7 @@
 - http://webdesign.tutsplus.com/courses/greensock-animation-platform-first-steps
 - https://ihatetomatoes.net/product/greensock-workshop/
 
+---
 
 ### Pixate
 - http://www.pixate.com/education/demos/
@@ -32,6 +35,8 @@
 - http://webdesign.tutsplus.com/tutorials/prototyping-a-fitness-application-with-pixate--cms-23955
 - https://medium.com/sketch-app-sources/pixate-tutorial-animation-based-on-scroll-direction-with-pull-to-refresh-d664a964fbb1#.lex7p7xoe
 - https://www.youtube.com/watch?v=jRHuAq4PqQo
+
+---
 
 ### FramerJS
 **Free**
@@ -46,6 +51,8 @@
 - http://framerbook.com/
 - https://www.skillshare.com/classes/design/Mobile-App-Prototyping-Designing-Custom-Interactions/382444545?via=search-layout-grid
 - https://www.udemy.com/framerjs-prototyping-design-interaction-animation/learn/#/
+
+---
 
 ### Free Stock Videos
 - https://videos.pexels.com/
