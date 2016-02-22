@@ -47,3 +47,10 @@
 - https://www.skillshare.com/classes/design/Mobile-App-Prototyping-Designing-Custom-Interactions/382444545?via=search-layout-grid
 - https://www.udemy.com/framerjs-prototyping-design-interaction-animation/learn/#/
 
+### Free Stock Videos
+- https://videos.pexels.com/
+- http://mazwai.com/#/
+- http://www.wedistill.io/
+- http://www.coverr.co/
+- http://fancyfootage.club/
+- http://www.xstockvideo.com/
