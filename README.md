@@ -11,6 +11,7 @@
 - https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.o88pqs7wv
 - https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.v0hz8q2tl
 - https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/
+- https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
  
 ---
 
