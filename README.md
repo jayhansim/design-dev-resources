@@ -12,6 +12,7 @@
 - https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.v0hz8q2tl
 - https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/
 - https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
+- http://bitsofco.de/6-reasons-to-start-using-flexbox/
  
 ---
 
