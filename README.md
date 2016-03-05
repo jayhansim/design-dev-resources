@@ -1,6 +1,7 @@
 # Design and Development Resources
 
 ### Flexbox
+- http://www.flexboxdefense.com/
 - http://flexboxfroggy.com/
 - http://flexbox.io/
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
@@ -53,6 +54,12 @@
 - http://framerbook.com/
 - https://www.skillshare.com/classes/design/Mobile-App-Prototyping-Designing-Custom-Interactions/382444545?via=search-layout-grid
 - https://www.udemy.com/framerjs-prototyping-design-interaction-animation/learn/#/
+
+---
+
+### Principle for Mac
+- http://principleux.com/
+- https://medium.com/swlh/designers-guide-to-prototyping-in-principle-4664e9930bef#.o6w3p7vcg
 
 ---
 
