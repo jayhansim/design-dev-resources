@@ -19,6 +19,7 @@
 
 ### Greensock GSAP
 **Free**
+- https://ihatetomatoes.net/product/greensock-101/
 - https://ihatetomatoes.net/simple-greensock-tutorial-your-first-steps-with-gsap/
 - http://webdesign.tutsplus.com/series/the-beginners-guide-to-timelinemax--cms-765
 - http://webdesign.tutsplus.com/tutorials/create-an-animated-svg-loader-using-greensocks-drawsvg--cms-23067
@@ -58,6 +59,7 @@
 ---
 
 ### Principle for Mac
+- http://principlerepo.com/
 - http://principleux.com/
 - https://medium.com/swlh/designers-guide-to-prototyping-in-principle-4664e9930bef#.o6w3p7vcg
 
@@ -77,12 +79,13 @@
 - http://heyuser.com/
 - http://www.uplabs.com/
 - http://app-ealing.com/
+- http://inspired-ui.com/
 
 ---
 
 ### Mobile UI/UX Resources
-- http://sketchsheets.com/ - Downloadable ready-to-print mobile devices for UI/Uxer
-- 
+- http://sketchsheets.com/ : Downloadable ready-to-print mobile devices for UI/Uxer
+
 ---
 
 ### ReactJS
