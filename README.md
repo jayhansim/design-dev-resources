@@ -19,6 +19,7 @@
 
 ### Greensock GSAP
 **Free**
+- https://greensock.com/get-started-js
 - https://ihatetomatoes.net/product/greensock-101/
 - https://ihatetomatoes.net/simple-greensock-tutorial-your-first-steps-with-gsap/
 - http://webdesign.tutsplus.com/series/the-beginners-guide-to-timelinemax--cms-765
