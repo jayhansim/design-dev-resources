@@ -81,11 +81,20 @@
 - http://www.uplabs.com/
 - http://app-ealing.com/
 - http://inspired-ui.com/
+- http://uimovement.com/
+- http://uigarage.net/
+- http://uipatterns.io/
+- http://uiohmy.com/
+- http://pttrns.com/
 
 ---
 
 ### Mobile UI/UX Resources
 - http://sketchsheets.com/ : Downloadable ready-to-print mobile devices for UI/Uxer
+- https://uideo.net/
+- http://www.uifaces.com/
+- http://uigradients.com/
+- http://uinames.com/
 
 ---
 
