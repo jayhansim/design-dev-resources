@@ -14,6 +14,12 @@
 - https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/
 - https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
 - http://bitsofco.de/6-reasons-to-start-using-flexbox/
+
+---
+
+### Flexbox Library
+- http://flexgrid.callmenick.com/
+- http://1000ch.github.io/grd/
  
 ---
 
