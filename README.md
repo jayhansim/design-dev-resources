@@ -20,6 +20,7 @@
 ### Flexbox Library
 - http://flexgrid.callmenick.com/
 - http://1000ch.github.io/grd/
+- http://www.flexboxpatterns.com/home
  
 ---
 
